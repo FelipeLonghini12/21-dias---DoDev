@@ -11,7 +11,7 @@ peso = parseInt(prompt("insira seu peso: "))
 
 //Calcundo o ano que a pessoa nasceu e o IMC
 let anoNasc = 0
-anoNasc = 2023 - idade
+anoNasc = 2025 - idade
 
 let IMC = 0
 IMC = peso /(altura * altura)
