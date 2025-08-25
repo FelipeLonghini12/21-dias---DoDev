@@ -17,4 +17,4 @@ let IMC = 0
 IMC = peso / (altura * altura)
 
 //Exibindo as informacoes no console
-console.log("Olá " + nome + ", você tem " + idade +" anos, nasceu em " + anoNasc + ", tem" + altura + " de altura, pesa" + peso + "  kg e seu IMC é" + IMC + " kg/m²")
+console.log("Olá " + nome + ", você tem " + idade +" anos, nasceu em " + anoNasc + ", tem " + altura + " de altura, pesa" + peso + "  kg e seu IMC é " + IMC + " kg/m²")
