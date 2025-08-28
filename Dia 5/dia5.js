@@ -1,4 +1,4 @@
-let idade = Number(prompt("Insira sua idade))
+let idade = Number(prompt("Insira sua idade"))
 
     switch(idade){
         case 10:
@@ -12,5 +12,5 @@ let idade = Number(prompt("Insira sua idade))
         case 20: 
             console.log("Você tem 20 anos")
                 break;
-                
+
     }
